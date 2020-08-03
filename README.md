@@ -6,7 +6,7 @@
 This work is part of the ICT for Health course at Politecnico di Torino.  
 The main purpose of the work is to apply HMM algorithms to vocal samples of both healthy and Parkinson affected patients pronouncing the 'a' vowels
 
-To see the full work please see the [documentation](https://github.com/lucagioacchini/hmm-sample-classification/tree/master/docs/updrs.pdf)
+To see the full work please see the [documentation](https://github.com/lucagioacchini/hmm-sample-classification/tree/master/docs/hmm.pdf)
 
 
 ## 
